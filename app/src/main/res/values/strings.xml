@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">笛子指法轉換表</string>
+    <string name="question">help</string>
+    <string name="sheet_tune">五線譜調號</string>
+    <string name="dizi_tune">笛子調性</string>
+    <string name="map">五線譜唱名 > 指法</string>
+    <string name="owo">:　3</string>
+    <string name="author_msg">哦？你竟然發現了這裡？！\n\n我是作者 nobodyzxc\n\n這是我第一支 App\n感謝你的支持！\n\n雖然這裡甚麼都沒有 =w= \n但你可以在 github 關注我 :3\n\n或是來我的 blog 坐坐喔  ヽ(ﾟ▽ﾟ)ノ</string>
+    <string name="ok">滾!</string>
+    <string name="gogo">祝你樂理早日有成，卸載本 App :3</string>
+</resources>
