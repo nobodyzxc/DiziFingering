@@ -9,3 +9,7 @@
 這是將五線譜轉成笛子指法的對照表
 
 對應不同調性譜面及不同調性笛子及筒音。
+
+![UI](https://github.com/nobodyzxc/DiziFingering/blob/master/look.jpeg?raw=true)
+
+[Download APK](https://mega.nz/#!odEyQKYB!EPz43wSzIzwN3EKZAp2Co17wqvbDpc8HuBcOdDzb6nI)
